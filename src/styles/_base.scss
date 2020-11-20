@@ -1,0 +1,76 @@
+body {
+  background-color: $light-gray;
+  font-family: $site-font;
+}
+a {
+  color: #000000;
+  &:hover {
+    color: #F16521;
+    text-decoration: none;
+  }
+}
+h1 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.navbutton {
+  background-color: #E9ECEF;
+  color: #525256;
+  padding: 1em 1.5em;
+  text-decoration: none;
+  font-weight: 700;
+  size: 16px;
+  border-radius: 57.0306px;
+  text-transform: capitalize;
+
+  &:hover{
+    background-color: #ffffff;
+    color: #000000;
+  }
+}
+
+.navlink {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  &:hover {
+    color: #F16521;
+  }
+}
+
+.sectionthree-title {
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: -0.585106372833252px;
+  text-align: center;
+  color: #525256;
+}
+
+.sectionthree-text {
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #525256;
+}
+
+.bold-text {
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0px;
+}
+
+.docs-content {
+  margin-left: 7%;
+}
+
+.align-left {
+  text-align: left;
+  color: #1CA78B;
+  padding-left: 8%;
+}

@@ -1,0 +1,45 @@
+footer {
+  background-color: $dark-gray;
+  padding: 10px;
+  text-align: center;
+  margin: 0 auto;
+  max-width: 960;
+  padding: 1.45rem 1.0875rem;
+}
+
+.footer-right {
+  padding-top: 5px;
+  font-size: 15px;
+  line-height: 16px;
+  letter-spacing: 0px;
+}
+
+.footer-center {
+  margin-top: 37px;
+}
+
+.footer-center_text {
+  background-color: $white;
+  box-shadow: 0px 18px 64px rgba(238, 238, 238, 0.5);
+  border-radius: 24px;
+  padding: 11px;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0px;
+  text-align: center;
+}
+
+.footer-left {
+  padding-top: 8px;
+}
+
+.footer-right {
+  padding-right: 5%;
+}
+
+.footer-center_span {
+  text-decoration: underline;
+  color: #44C4A1;
+}

@@ -1,0 +1,6 @@
+- id: amanda
+  name: Amanda
+  avatar: ./avatars/amanda.jpg
+- id: kelvin
+  name: Kelvin
+  avatar: ./avatars/kelvin.png
